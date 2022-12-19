@@ -20,13 +20,6 @@ author = 'Giantpizzahead'
 extensions = ['sphinx.ext.napoleon',
               'sphinx.ext.autodoc']
 
-# Automatically extract typehints when specified and place them in
-# descriptions of the relevant function/method.
-autodoc_typehints = "description"
-
-# Don't show class signature with the class' name.
-autodoc_class_signature = "separated"
-
 # Other config options
 templates_path = ['_templates']
 exclude_patterns = []
@@ -36,4 +29,3 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-# html_static_path = ['_static']

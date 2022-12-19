@@ -6,4 +6,18 @@
 
 Accurate, fast, scale and rotation invariant template matching.
 
-(WIP)
+## Setup
+
+WIP
+
+## Goals
+
+[Goal List](goals.md)
+
+## Reference
+
+[Reference](reference.md)
+
+## License
+
+[GNU General Public License v3.0](LICENSE)
