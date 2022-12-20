@@ -1,0 +1,10 @@
+{
+    "image": "basic_shapes/image_overlap_1.png",
+    "template": "basic_shapes/template_rect.png",
+    "expected": [
+        13,
+        24,
+        22,
+        28
+    ]
+}
