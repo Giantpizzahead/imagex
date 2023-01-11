@@ -1,0 +1,1 @@
+{"type": "find-one", "image": "basic_shapes/image_exact_overlap_1.png", "template": "basic_shapes/template_normal_rect.png", "bounding_boxes": [[0, 3, 21, 17], [1, 3, 21, 17], [0, 4, 21, 17], [1, 4, 21, 17]]}
